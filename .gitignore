@@ -1,0 +1,12 @@
+# Dataset (too large for GitHub — download from Kaggle)
+games.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
+
+# Pycharm folder
+.idea/
